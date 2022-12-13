@@ -1,2 +1,2 @@
 # Complement-Generator
-Made by ChatGPT!
+An 'advanced' complement generator by ChatGPT! enjoy.
